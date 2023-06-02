@@ -1,5 +1,14 @@
-title: Tactile theme
-description: Tactile is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Vinod's Notes for Future Reference
+description: Welcome to Vinod's notes for Future? As an experienced developer and passionate enthusiast, I'll be sharing my expertise, tips, and frustrations so you can avoid them in a variety of topics. Let's unlock the potential of this transformative technology together!
+show_downloads: false
+google_analytics: G-WH6DY3YCY8
 theme: jekyll-theme-tactile
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars.githubusercontent.com/u/135296261?s=96&v=4
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: "/notesforfuture"
